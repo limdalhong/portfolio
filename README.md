@@ -12,6 +12,9 @@
   
 + c++
 
+## boj
+> [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bio7215)](https://solved.ac/bio7215)
+
 ## Awards
 + 2023년 경희대학교 소프트웨어페스티벌 포트폴리오 경진대회 최우수상
   
